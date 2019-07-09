@@ -1,0 +1,5 @@
+this is a test2.txt
+this is for me to understand how to use the 'branch' and 'checkout' 
+as we know: 'git branch' it's means you create a '分支'
+'git checkout dev' is turn to the '分支' you had created
+
